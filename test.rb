@@ -17,9 +17,9 @@ class Post
   
 end 
 
-roald dahl = Author.new
+roald_dahl = Author.new
 bfg = Post.new
-bfg.author = roald dahl  
+bfg.author = roald_dahl  
 
 puts bfg.author.name
 
