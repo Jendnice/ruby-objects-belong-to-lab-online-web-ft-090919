@@ -18,11 +18,8 @@ class Post
 end 
 
 roald dahl = Author.new
-hotline_bling = Song.new("Hotline Bling")
-hotline_bling.artist = drake 
+bfg = Post.new
+bfg.author = roald dahl  
 
-puts hotline_bling.artist.genre
-puts hotline_bling.artist.name 
+puts bfg.author.name
 
-"Roald Doahl" = Author.new
-puts Author 
