@@ -21,5 +21,5 @@ roald_dahl = Author.new
 bfg = Post.new
 bfg.author = roald_dahl  
 
-bfg.author.name
+return bfg.author.name
 
